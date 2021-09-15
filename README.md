@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# VBA Challenge
 
 ## Overview of Project
 	Provide a stock performance analysis of 12 stocks for years 2017 and 2018. The analysis is to identify daily total volumes and yearly return rate. Both years of 
